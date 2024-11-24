@@ -1,0 +1,126 @@
+header{
+    background-image: url(./imgs/S.E.M\ invest\ fund\ backgrud.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-blend-mode:multiply;
+    background-color:rgba(24, 22, 22, 0.89);
+    /* height: 70vh; */
+    /* padding-bottom: 70px;
+    mask: radial-gradient(60% 110px T BOTTOM, #0000 100%,#000); */
+
+
+}
+
+.logo{
+    height: 60px;
+    /* padding: 3%; */
+    /* margin: 0px 0px 100px 0px; */
+    
+}
+.navbar{
+    /* display: flex; */
+    /* justify-content:space-between; */
+    color: white;
+    /* margin: 0 ; */
+    /* padding: 4%; */
+}
+/* .nav-items{
+    display: flex;
+    justify-content: space-around;
+
+}
+.nav-items ul a{color: white;
+text-decoration: none;
+font-size: 15px ;
+font: bold;
+padding-left: 30px;
+
+
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;} */
+
+.nav-btn{background-color: rgb(226, 172, 24);
+    border-radius:10px;
+    padding: 2px 4px 2px 4px;
+    margin-left:15px;
+}
+.nav-body{
+    text-align: center;
+    color: white;
+   
+
+}
+/* .nav-body h5{letter-spacing: 1px;
+    }
+.nav-body h1{
+    letter-spacing: 2px;
+}*/ 
+/* banner section */
+.banner{
+    margin-top: 80px;
+}
+.banner-content{text-align: center;
+} 
+.box{box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;}
+.box h5{color: brown;
+font-size: 15px;
+font: bold;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;}
+
+
+.box h2{font-size: 30px;
+    font: bold;}
+
+
+/* about */
+.about-container{background-color: #f7f9fc;
+}
+/* .about-content{
+    display: flex;
+    justify-content: space-between;
+} */
+
+.about-2-para h5{ font: bold; color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+/* history */
+.history{
+    margin-top: 80px;
+}
+.history-content{text-align: center;
+} 
+.history-box{box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     background-color:rgb(177, 138, 33);color: #f7f9fc ;}
+.history-box h5{color: brown;
+font-size: 15px;
+font: bold;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;}
+.history-read{color: gray;}
+
+/* our team */
+.team-container{
+    margin-top: 80px;
+    background-color:#f7f9fc ;
+    padding: 5%;
+}
+.team-container div h1{ font-size: 35px;
+    font: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin-bottom: 40px;
+}
+.team-content h4{font-size: 20px;
+    font: bold;
+    margin-bottom: 10px; 
+}
+
+.team-content span { color: rgba(219, 93, 20, 0.911); }
+.team-content p{ margin-bottom: 25px;}
+
+.drop-message{
+    background-image: url(./imgs/S.E.M\ invest\ fund\ backgrud.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-blend-mode:multiply;
+    background-color:rgba(24, 22, 22, 0.89);
+}
