@@ -123,4 +123,24 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;}
     background-size:cover;
     background-blend-mode:multiply;
     background-color:rgba(24, 22, 22, 0.89);
+    /* height: 80vh; */
+   
 }
+.drop-container{ margin: 50px;
+   padding:5%;}
+.drop-content h1{ color:white; margin-bottom: 40px; font-size: x-large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+form{
+    
+    display: inline-block;}
+    form input {
+        border: none;
+        background: transparent;
+        border-bottom: 1px solid #fff;
+        outline: none;
+      }
+      
+      form button {
+        background: transparent;
+        border: 0;
+        color: #fff;
+      }
