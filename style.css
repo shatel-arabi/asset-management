@@ -153,5 +153,41 @@ form{
 
 /* More about section */
 .More-about-container{background-color:#f7f9fc ; }
-.more-about-header{ margin: 500px 40px 100px 40px; text-align: center; padding: 40px ; }
+.more-about-header{ margin: 450px 40px 100px 40px; text-align: center; padding: 40px ; }
 .more-about-header h1{  font-size: 30px; color: black;letter-spacing: 2px; font: bold; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.more-img1{}
+.more-about-para1{margin: 15px 50px 0px 0px;}
+.more-content-heading{ font-size: 20px; font:bolder; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+/* footer */
+footer {
+    background-color: white ;
+    color: gray;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .social-links {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .social-links li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  .social-links a {
+    color: gray;
+    text-decoration: none;
+  }
+  
+  .social-links a:hover {
+    text-decoration: underline;
+  }
