@@ -124,6 +124,8 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;}
     background-blend-mode:multiply;
     background-color:rgba(24, 22, 22, 0.89);
     /* height: 80vh; */
+    margin-bottom: 80px;
+
    
 }
 .drop-container{ margin: 50px;
@@ -147,7 +149,9 @@ form{
     padding: 4%; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;}
     .office-time div h2{margin-bottom: 10px; font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
     .office-time div h3{margin: 10px 0 ; font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-    
+.map-office-time{ margin-bottom: 80px;}
 
 /* More about section */
-.More-about-container{margin-top: 80px;}
+.More-about-container{background-color:#f7f9fc ; }
+.more-about-header{ margin: 500px 40px 100px 40px; text-align: center; padding: 40px ; }
+.more-about-header h1{  font-size: 30px; color: black;letter-spacing: 2px; font: bold; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
